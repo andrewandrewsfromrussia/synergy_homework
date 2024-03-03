@@ -1,7 +1,6 @@
 n = int(input('Введите кол-во рыбаков: '))
 m = int(input('Введите грузоподьемность лодки: '))
 people = [int(input('Введите вес рыбака:')) for _ in range(n)]
-print(people)
 
 result = []
 
